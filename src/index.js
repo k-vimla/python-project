@@ -1,1 +1,1 @@
-
+cosole.log("index file");
